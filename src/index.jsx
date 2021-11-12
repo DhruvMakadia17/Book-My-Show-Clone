@@ -5,6 +5,7 @@ import "./index.css";
 import App from "./App";
 import MovieProvider from "./Components/Context/movie.context"
 
+//Some DOM Work Here
 ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>

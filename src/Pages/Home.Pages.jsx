@@ -5,7 +5,7 @@ import axios from "axios";
 import EntertainmentCardSlider from "../Components/Entertainment/EntertainmentCard.Components";
 import PosterSlider from "../Components/PosterSlider/PosterSliders.Components";
 
-// config
+// Config
 import TempPosters from "../Config/TempPosters.Config";
 
 const HomePage = () => {

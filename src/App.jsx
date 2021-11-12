@@ -23,6 +23,7 @@ axios.defaults.baseURL = "https://api.themoviedb.org/3";
 axios.defaults.params = {};
 axios.defaults.params["api_key"] = process.env.REACT_APP_API_KEY;
 
+//Important Stuff
 function App() {
   return (
     <>

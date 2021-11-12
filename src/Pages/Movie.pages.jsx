@@ -46,7 +46,7 @@ const Movie = () => {
     requestRecommendedMovies();
 
   }, [id]);
-
+//Settings For mobile, tablet and desktop view
   const settings = {
     infinite: false,
     speed: 500,
